@@ -3,7 +3,7 @@ The economy is in crisis mode currently. Tariffs are impeding the economy, causi
 ## What it does
 MTG Advisor is your AI Partner that helps you analyze the most recently filed insider trades made by US senators.  By comparing live and historical stock data from the dates of the insider trades, MTG Advisor can cross-reference the data to create meaningful predictions and give important insights into how the specific stocks could move. MTG Advisor can also act as a general financial advisor and give you advice on how to best invest your money. 
 ## How we built it
-MTG Advisor is built almost entirely out of React and Flask. React manages our interactive frontend while Flask handles all of our Api calls. We utilized Vite to get our template for a fast scaffolding to get to work quickly.
+MTG Advisor is built almost entirely out of React and Flask. React manages our interactive frontend while Flask handles all of our Api calls. We utilized Vite to get our template for fast scaffolding to get to work quickly.
 ## Challenges we ran into
 The biggest challenge we ran into was collaboration. This is a challenge we did not expect to run into, however, we quickly realized we have no idea how to use Git to collaborate. Throughout the entire project, we struggled with this and were continually resolving errors with it. We still probably don't know how to use git.
 
